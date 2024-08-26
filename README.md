@@ -5,6 +5,9 @@ Employee attrition is a critical issue for many organizations, as high turnover 
 
 Key Features
 Exploratory Data Analysis (EDA): A thorough analysis of the dataset, including visualizations and statistical summaries, to understand key trends and relationships between features and employee attrition.
+
 Data Preprocessing: Handling missing values, encoding categorical variables, feature scaling, and other preprocessing steps to prepare the data for modeling.
+
 Model Building: Implementation of multiple machine learning models including Logistic Regression, Decision Tree, Random Forest, and XGBoost to predict employee attrition.
+
 Model Evaluation: Comparison of model performance using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC. Cross-validation and hyperparameter tuning are also performed to optimize model performance.
